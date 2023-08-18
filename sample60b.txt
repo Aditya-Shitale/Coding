@@ -1,0 +1,4 @@
+this is sample code running in compiler
+a
+b
+come
